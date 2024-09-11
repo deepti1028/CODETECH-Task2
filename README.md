@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/harshsharma20503/ChatApp.git
+   git clone https://github.com/deepti1028/TalkTrail.git
    ```
 2. Navigate to the project directory:
 

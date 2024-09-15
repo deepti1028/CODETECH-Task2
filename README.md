@@ -1,6 +1,6 @@
-# MERN Chat App with Socket.io
+# Talk Trail
 
-Welcome to our MERN Chat App repository! This project aims to create a full-stack web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Chakra UI for the frontend and Socket.io for real-time communication.
+A full-stack web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Chakra UI for the frontend and Socket.io for real-time communication.
 
 ## Features
 
@@ -31,7 +31,7 @@ To get started with the project, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd ChatApp
+   cd TalkTrail
    ```
 3. Set Up enviornment Variables
    1. Create a `.env` file in the backend folder of the project.
